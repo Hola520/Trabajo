@@ -1,3 +1,5 @@
 La segunda subida
 El primer cambio, en github
 “Estamos creando un conflicto
+Nuestro fichero es el bueno, no nos gustan los
+conflictos
